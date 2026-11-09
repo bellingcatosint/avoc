@@ -157,3 +157,14 @@ Edge 16+, Firefox 52+, Safari 10.1+, Chrome 57+, Opera 44+.
 
 - `kiwi-bird` favicon by [Free Icons](https://free-icons.github.io/free-icons/)
 - Grid system inspired by [@sdras](https://github.com/sdras) amazing [cssgridgenerator](https://cssgrid-generator.netlify.app/)
+
+
+## Contact via RetroShare
+
+For direct contact and project coordination, you can reach us through RetroShare. Add this public RetroShare certificate to your contacts:
+
+```text
+ABCDCA4iYSA/R3eLKGve+Xh/AQpCZWxsaW5nY2F0AxQpROvRHO0431TmXqzV1lrCGXOziZMGjB+owBNNBAONzFA=
+```
+
+Please share your own certificate in return so we can establish a mutual connection.
